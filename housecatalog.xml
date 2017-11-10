@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="housecatalog.xsl"?>
+
+<catalog>
+  <h1>If field is empty, that means that there no parameters</h1>
+  <property>
+    <Name>MMM</Name>
+    <Adress>Sumskaja st. 69</Adress>
+    <Type>Apartment house</Type>
+    <Date>05.06.1963</Date>
+    <Amount>6 flats</Amount>
+    <Cost>14 000$</Cost>
+  </property>
+  <land_plot>
+    <Adress>Tractor builders 27</Adress>
+    <Type>Land plot</Type>
+    <Cost>2 000$</Cost>
+  </land_plot>
+  <detached_house>
+    <Adress>Tractor builders 13</Adress>
+    <Type>Detached house</Type>
+    <Date>17.09.2013</Date>
+    <Cost>5 000$</Cost>
+  </detached_house>
+  <apartments>
+    <Name>Housing 2</Name>
+    <Adress>Celenograds'ka st. 12</Adress>
+    <Type>Apartments</Type>
+    <Amount>50 flats</Amount>
+    <Date>15.03.2019</Date>
+    <Cost>25 000$</Cost>
+  </apartments>
+</catalog>
